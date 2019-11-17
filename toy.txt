@@ -1,0 +1,59 @@
+the dog bit the cat .
+the cat bit the dog .
+the boy bit the dog .
+the boy bit the cat .
+the dog bit the boy .
+the cat bit the boy .
+the big dog bit the cat .
+a dog bit the cat .
+a cat bit the dog .
+a boy bit a dog .
+a cat bit a dog .
+a big cat bit a dog .
+a big girl bit a dog .
+a big girl bit a big dog .
+a big boy bit a big dog .
+a big boy bit a big cat .
+I bit a big cat .
+I saw a big cat .
+I heard a big dog .
+the dog saw the cat .
+the cat saw the dog .
+the boy saw the cat .
+the boy saw the dog .
+the boy saw the big dog .
+the girl saw the big dog .
+you saw the dog .
+I slept .
+the boy slept .
+I talked to the boy .
+I talked to the dog .
+the dog talked to the cat .
+I talked to the cat .
+a girl talked to a dog .
+we talked to the boy. .
+we talked to the girl .
+we slept .
+we talked .
+who is the boy ?
+who is the girl ?
+who is the dog ?
+who bit the dog ?
+who did the boy see ?
+who did the girl see ?
+who did the dog see ?
+who slept ?
+who bit the big dog ?
+who talked to the girl ?
+who did the girl see ?
+who did the boy see ?
+who did the dog bite ?
+who did the cat bite ?
+who did I talk to ?
+who did we talk to ?
+what did the boy see ?
+what did the girl see ?
+what bit the dog ?
+3
+what did I talk to ?
+a little girl saw a little boy .
